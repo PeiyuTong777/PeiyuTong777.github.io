@@ -13,10 +13,13 @@ title                    : "Peiyu Tong | Homepage"
 title_separator          : "-"
 name                     : &name "Peiyu Tong(童培宇)"
 description              : &description "Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://PeiyuTong777.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PeiyuTong777/PeiyuTong777.github.io"
+# 基础路径配置
+url: "https://PeiyuTong777.github.io"
+baseurl: "" # 必须保持为空，不要填任何东西
+repository: "PeiyuTong777/PeiyuTong777.github.io"
+
+# 静态资源路径（如果这一行有，请确保如下）
+static_optimize: true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

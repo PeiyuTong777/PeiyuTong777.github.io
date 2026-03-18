@@ -29,7 +29,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Peiyu Tong(童培宇)"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student, School of Data Science, Fudan University"
+  bio              : "Undergraduate student <br> School of Data Science <br> Fudan University"
   location         : "China"
   employer         : "Fudan University"
   uri              : # URL

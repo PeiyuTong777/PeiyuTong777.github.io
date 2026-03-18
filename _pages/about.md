@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: single
 title: "About Me"
 permalink: /
 author_profile: true
@@ -7,7 +7,7 @@ author_profile: true
 
 # Peiyu Tong (童培宇)
 
-I am a sophomore undergraduate student at the **[School of Data Science (SDS), Fudan University(https://sds.fudan.edu.cn/)]**, majoring in **Data Science**.
+I am a sophomore undergraduate student at the **[School of Data Science (SDS), Fudan University](https://sds.fudan.edu.cn/)**, majoring in **Data Science**.
 
 Currently, I am focused on the theoretical analysis and algorithmic implementation of optimization techniques, aiming to bridge the gap between abstract mathematical theory and large-scale computational efficiency.
 

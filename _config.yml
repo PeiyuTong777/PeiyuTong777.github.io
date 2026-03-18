@@ -17,7 +17,9 @@ description              : &description "Homepage"   # Update this with a genera
 url: "https://PeiyuTong777.github.io"
 baseurl: "" # 必须保持为空，不要填任何东西
 repository: "PeiyuTong777/PeiyuTong777.github.io"
-
+# 在 _config.yml 查找这些项
+keywords: "Peiyu Tong, 童培宇, Fudan University, Optimization, Data Science"
+canonical: "https://PeiyuTong777.github.io/"
 # 静态资源路径（如果这一行有，请确保如下）
 static_optimize: true
 

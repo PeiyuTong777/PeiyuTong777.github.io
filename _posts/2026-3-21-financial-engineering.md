@@ -2,8 +2,6 @@
 title: "三叉树定价模型的定价唯一性缺失"
 date: 2026-03-21
 permalink: /posts/2026/03/financial-engineering/
-use_math: true
-# 或者
 mathjax: true
 tags:
   - Financial Engineering

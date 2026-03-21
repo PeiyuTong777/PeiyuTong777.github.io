@@ -227,17 +227,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false        # 设为 false，文件还在，但不生成网页
   publications:
-    output: true
-    permalink: /:collection/:path/
+    output: false        # 以后有了论文，直接改回 true 即可
   portfolio:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: false
 
 
 # These settings control how pages and collections are included in the site
